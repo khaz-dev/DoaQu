@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.khazasid.android.doaqu.app-mergeDebugResources-37:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Android Studio\\DoaQu\\app\\src\\main\\res\\values-v16\\styles.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,310",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "302,576"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,541",
+                        "endLines": "6,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "363,804"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khair\\.gradle\\caches\\transforms-3\\6e6fded5894b3b48caf021ae51043e6c\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khair\\.gradle\\caches\\transforms-3\\5a1272a2381bfb1abdf71b46990ac4f9\\transformed\\appcompat-1.4.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "368",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "536"
+                    }
+                }
+            ]
+        }
+    ]
+}

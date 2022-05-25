@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaturascTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/maturasc</item>
+        <item name="android:textColor">@color/colorPrimaryContent</item>
+    </style>
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="android:fontFamily">@font/maturasc</item>
+    </style>
+</resources>

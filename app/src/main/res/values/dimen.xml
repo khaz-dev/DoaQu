@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="action_button_min_width_material">48dp</dimen>
+
+    <dimen name="action_button_min_width_overflow_material">36dp</dimen>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">738608467431-21i0otoomchnrn3k8nbaobihmkqn1g5n.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://doaqu-5bdbc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">738608467431</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5ttIINv8ASU_sS1045xG9QwB6w1D9B0o</string>
+    <string name="google_app_id" translatable="false">1:738608467431:android:71c303d67affd068</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5ttIINv8ASU_sS1045xG9QwB6w1D9B0o</string>
+    <string name="google_storage_bucket" translatable="false">doaqu-5bdbc.appspot.com</string>
+    <string name="project_id" translatable="false">doaqu-5bdbc</string>
+</resources>

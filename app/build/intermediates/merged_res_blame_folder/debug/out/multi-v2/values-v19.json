@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.khazasid.android.doaqu.app-mergeDebugResources-37:/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\Project\\Android Studio\\DoaQu\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "352"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "346"
+                    }
+                }
+            ]
+        }
+    ]
+}

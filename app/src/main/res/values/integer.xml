@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="PAGE_COUNT">2</integer>
+    <integer name="MIN_DOA_ID">1</integer>
+    <integer name="MAX_DOA_ID">131</integer>
+
+    <integer name="NOTIF_HOURS">5</integer>
+    <integer name="NOTIF_MINUTES">30</integer>
+
+    <integer name="DAILY_NOTIF_ID">0</integer>
+    <integer name="EVENT_NOTIF_ID">1</integer>
+</resources>

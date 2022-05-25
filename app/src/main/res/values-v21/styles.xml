@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainActivityThemeLight" parent="ActivityTheme.Primary.Base.Light">
+        <item name="android:windowBackground">@color/windowBackGroundColorLight</item>
+        <item name="android:windowContentTransitions">true</item>
+
+    </style>
+
+    <style name="MainActivityThemeDark" parent="ActivityTheme.Primary.Base.Dark">
+        <item name="android:windowBackground">@color/windowBackGroundColorDark</item>
+        <item name="android:windowContentTransitions">true</item>
+
+    </style>
+</resources>

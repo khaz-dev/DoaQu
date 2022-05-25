@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--"Mark Search", should appear as action button if possible-->
+    <item
+        android:id="@+id/action_search"
+        android:title=""
+        android:enabled="false"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item android:id="@+id/action_dark_mode"
+        android:title="@string/action_dark_mode"
+        android:icon="?attr/iconDarkLightPlaceholder"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_share_app"
+        android:title="@string/action_share_app"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_rate_us"
+        android:title="@string/action_rate_us"
+        app:showAsAction="never" />
+
+</menu>

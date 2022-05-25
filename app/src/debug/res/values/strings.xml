@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Test Admob Ad ID-->
+    <string name="BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="DETAIL_BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="INTERSTITIAL_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="DETAIL_INTERSTITIAL_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

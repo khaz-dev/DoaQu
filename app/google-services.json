@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738608467431",
+    "firebase_url": "https://doaqu-5bdbc.firebaseio.com",
+    "project_id": "doaqu-5bdbc",
+    "storage_bucket": "doaqu-5bdbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738608467431:android:71c303d67affd068",
+        "android_client_info": {
+          "package_name": "com.khazasid.android.doaqu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738608467431-bl1p3om4d2uml1ubrlav0tnt1m1qd16b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khazasid.android.doaqu",
+            "certificate_hash": "0fa5b89df356a992666b9f36610edcd2725e2b6a"
+          }
+        },
+        {
+          "client_id": "738608467431-21i0otoomchnrn3k8nbaobihmkqn1g5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ttIINv8ASU_sS1045xG9QwB6w1D9B0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738608467431-21i0otoomchnrn3k8nbaobihmkqn1g5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

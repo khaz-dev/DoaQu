@@ -1,0 +1,179 @@
+<resources>
+    <declare-styleable name="DoaQuAppTheme">
+        <attr name="primaryTextColor" format="color" />
+        <attr name="secondaryTextColor" format="color" />
+        <attr name="dividerColor" format="color" />
+        <attr name="backgroundCardColor" format="color" />
+        <attr name="iconNumberPlaceholder" format="integer" />
+        <attr name="iconDarkLightPlaceholder" format="integer" />
+        <attr name="windowsBackgroundColor" format="color" />
+        <attr name="toolbarTheme" format="integer" />
+    </declare-styleable>
+
+    <!-- Splashscreen theme -->
+    <style name="Theme.App.Starting" parent="Theme.AppCompat">
+        // Set the splash screen background, animated icon, and animation duration.
+        <item name="windowSplashScreenBackground">@color/colorPrimary</item>
+
+        // Use windowSplashScreenAnimatedIcon to add either a drawable or an
+        // animated drawable. One of these is required.
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon</item>
+        <item name="windowSplashScreenAnimationDuration">200</item>  # Required for
+        # animated icons
+
+        // Set the theme of the Activity that directly follows your splash screen.
+        <item name="postSplashScreenTheme">@style/MainActivityThemeLight</item>  # Required.
+    </style>
+
+    <!-- Specific Main activity theme -->
+    <style name="MainActivityThemeLight" parent="ActivityTheme.Primary.Base.Light">
+        <item name="android:windowBackground">@color/windowBackGroundColorLight</item>
+    </style>
+
+    <style name="MainActivityThemeDark" parent="ActivityTheme.Primary.Base.Dark">
+        <item name="android:windowBackground">@color/windowBackGroundColorDark</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <!-- Light base activity theme -->
+    <style name="ActivityTheme.Primary.Base.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="primaryTextColor">#33343B</item>
+        <item name="secondaryTextColor">#8033343B</item>
+        <item name="dividerColor">#1f000000</item>
+        <item name="backgroundCardColor">#FFFF</item>
+        <item name="iconNumberPlaceholder">@drawable/ic_number_container_light_48dp</item>
+        <item name="iconDarkLightPlaceholder">@drawable/ic_light</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="windowsBackgroundColor">@color/windowBackGroundColorLight</item>
+        <item name="toolbarTheme">@style/toolbarLight</item>
+    </style>
+
+    <!-- Dark base activity theme -->
+    <style name="ActivityTheme.Primary.Base.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="primaryTextColor">#F4F4F6</item>
+        <item name="secondaryTextColor">#96F4F4F6</item>
+        <item name="dividerColor">#1fffffff</item>
+        <item name="backgroundCardColor">#33343B</item>
+        <item name="iconNumberPlaceholder">@drawable/ic_number_container_dark_48dp</item>
+        <item name="iconDarkLightPlaceholder">@drawable/ic_dark</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="windowsBackgroundColor">@color/windowBackGroundColorDark</item>
+        <item name="toolbarTheme">@style/toolbarLight</item>
+    </style>
+
+    <style name="toolbarDark" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <style name="toolbarLight" parent="ThemeOverlay.AppCompat">
+        <item name="drawerArrowStyle">@style/WhiteDrawerIconStyle</item>
+        <item name="actionOverflowButtonStyle">@style/OverFlow</item>
+    </style>
+
+    <style name="OverFlow" parent="@style/Widget.AppCompat.Light.ActionButton.Overflow">
+        <item name="android:tint">@android:color/white</item>
+    </style>
+
+    <style name="WhiteDrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="tabLayoutDoaQu" parent="Widget.Design.TabLayout">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="tabIndicatorColor">@color/colorPrimaryContent</item>
+        <item name="tabTextColor">@color/colorPrimaryLight</item>
+        <item name="tabSelectedTextColor">@color/colorPrimaryContent</item>
+    </style>
+
+    <style name="cardViewStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="cardElevation">3dp</item>
+        <item name="cardBackgroundColor">?attr/backgroundCardColor</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="cardCornerRadius">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="cardTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Body2</item>
+        <item name="android:textColor">?attr/secondaryTextColor</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:background">?attr/backgroundCardColor</item>
+    </style>
+
+    <style name="downUpImageButton" parent="Widget.AppCompat.ImageButton">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:background">?attr/backgroundCardColor</item>
+    </style>
+
+    <style name="mainFAB" parent="Widget.Design.FloatingActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="fabSize">normal</item>
+        <item name="elevation">6dp</item>
+        <item name="android:layout_gravity">end|bottom</item>
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="borderWidth">0dp</item>
+    </style>
+
+    <style name="cardContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="dialogContentText">
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Body1</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="dialogRefText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_left</item>
+    </style>
+
+    <style name="NavBarTitleTextAppearance">
+        <item name="android:textColor">?attr/secondaryTextColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="MainActivityThemeLight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MainActivityThemeLight.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MainActivityThemeLight.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

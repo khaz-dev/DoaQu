@@ -1,0 +1,72 @@
+com/khazasid/android/doaqu/Database/Doa.java
+ com.khazasid.android.doaqu.Database.Doa
+com/khazasid/android/doaqu/Tools/Tools.java
+ com.khazasid.android.doaqu.Tools.Tools
+com/khazasid/android/doaqu/MyFirebaseMessagingService.java
+ com.khazasid.android.doaqu.MyFirebaseMessagingService
+com/khazasid/android/doaqu/Database/DoasDatabase.java
+ com.khazasid.android.doaqu.Database.DoasDatabase
+ com.khazasid.android.doaqu.Database.DoasDatabase$1
+com/khazasid/android/doaqu/DetailFragment.java
+ com.khazasid.android.doaqu.DetailFragment
+ com.khazasid.android.doaqu.DetailFragment$1
+ com.khazasid.android.doaqu.DetailFragment$2
+ com.khazasid.android.doaqu.DetailFragment$3
+ com.khazasid.android.doaqu.DetailFragment$4
+com/khazasid/android/doaqu/Database/DoaDao.java
+ com.khazasid.android.doaqu.Database.DoaDao
+com/khazasid/android/doaqu/DoasAdapter.java
+ com.khazasid.android.doaqu.DoasAdapter
+ com.khazasid.android.doaqu.DoasAdapter$DoaViewHolder
+ com.khazasid.android.doaqu.DoasAdapter$PostDiffCallback
+com/khazasid/android/doaqu/SettingsActivity.java
+ com.khazasid.android.doaqu.SettingsActivity
+ com.khazasid.android.doaqu.SettingsActivity$SettingsFragment
+com/khazasid/android/doaqu/Database/DoaSupportDao.java
+ com.khazasid.android.doaqu.Database.DoaSupportDao
+com/khazasid/android/doaqu/Database/DoaSupportJoin.java
+ com.khazasid.android.doaqu.Database.DoaSupportJoin
+com/khazasid/android/doaqu/SearchFragment.java
+ com.khazasid.android.doaqu.SearchFragment
+com/khazasid/android/doaqu/BuildConfig.java
+ com.khazasid.android.doaqu.BuildConfig
+com/khazasid/android/doaqu/Database/DoaSupport.java
+ com.khazasid.android.doaqu.Database.DoaSupport
+com/khazasid/android/doaqu/Database/DoaSupportJoinDao.java
+ com.khazasid.android.doaqu.Database.DoaSupportJoinDao
+com/khazasid/android/doaqu/MainAdapter.java
+ com.khazasid.android.doaqu.MainAdapter
+com/khazasid/android/doaqu/DoaViewModel.java
+ com.khazasid.android.doaqu.DoaViewModel
+com/khazasid/android/doaqu/MainActivity.java
+ com.khazasid.android.doaqu.MainActivity
+ com.khazasid.android.doaqu.MainActivity$1
+ com.khazasid.android.doaqu.MainActivity$10
+ com.khazasid.android.doaqu.MainActivity$2
+ com.khazasid.android.doaqu.MainActivity$3
+ com.khazasid.android.doaqu.MainActivity$3$1
+ com.khazasid.android.doaqu.MainActivity$4
+ com.khazasid.android.doaqu.MainActivity$5
+ com.khazasid.android.doaqu.MainActivity$6
+ com.khazasid.android.doaqu.MainActivity$7
+ com.khazasid.android.doaqu.MainActivity$7$1
+ com.khazasid.android.doaqu.MainActivity$7$2
+ com.khazasid.android.doaqu.MainActivity$8
+ com.khazasid.android.doaqu.MainActivity$9
+com/khazasid/android/doaqu/BookmarkFragment.java
+ com.khazasid.android.doaqu.BookmarkFragment
+com/khazasid/android/doaqu/SearchsAdapter.java
+ com.khazasid.android.doaqu.SearchsAdapter
+ com.khazasid.android.doaqu.SearchsAdapter$DoaViewHolder
+ com.khazasid.android.doaqu.SearchsAdapter$PostDiffCallback
+com/khazasid/android/doaqu/DoaFragment.java
+ com.khazasid.android.doaqu.DoaFragment
+com/khazasid/android/doaqu/DoaDetailActivity.java
+ com.khazasid.android.doaqu.DoaDetailActivity
+ com.khazasid.android.doaqu.DoaDetailActivity$1
+ com.khazasid.android.doaqu.DoaDetailActivity$1$1
+com/khazasid/android/doaqu/LoadData.java
+ com.khazasid.android.doaqu.LoadData
+ com.khazasid.android.doaqu.LoadData$1
+ com.khazasid.android.doaqu.LoadData$LoadDoaAsyncTask
+ com.khazasid.android.doaqu.LoadData$LoadDoaAsyncTask$LoadDoaAsyncTaskListener

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/navbar_title_terkabul_doa"
+        android:id="@+id/nav_bar_title_syarat_terkabul">
+        <menu>
+            <item android:id="@+id/navbar_adab_sebab"
+                android:icon="@drawable/ic_adab_sebab_accent_48dp"
+                android:title="@string/nav_bar_menu_title_adab_dan_sebab" />
+            <item android:id="@+id/navbar_waktu_keadaan_tempat"
+                android:icon="@drawable/ic_waktu_keadaan_tempat_accent_48dp"
+                android:title="@string/nav_bar_menu_title_waktu_keadaan_tempat"/>
+            <item android:id="@+id/navbar_penghalang"
+                android:icon="@drawable/ic_penghalang_accent_48dp"
+                android:title="@string/nav_bar_menu_title_penghalang"/>
+        </menu>
+    </item>
+    <item android:title="@string/navbar_title_others"
+        android:id="@+id/nav_bar_title_lain">
+        <menu>
+            <item android:id="@+id/navbar_settings"
+                android:icon="@drawable/ic_settings_accent_48dp"
+                android:title="@string/nav_bar_menu_title_settings" />
+        </menu>
+    </item>
+</menu>

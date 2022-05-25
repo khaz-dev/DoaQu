@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_doa_list_search_item.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/doa_list_search_item.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_doas_list.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/doas_list.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/xml_root_preferences.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout-v21_search_list.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout-v21/search_list.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_nav_header.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_light.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_light.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxxhdpi_splash_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxxhdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/menu_navigation_menu.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xhdpi_ic_navbar_app_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xhdpi/ic_navbar_app_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/raw_doas.txt.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/raw/doas.txt"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxhdpi_ic_navbar_app_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxhdpi/ic_navbar_app_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_number_container_dark_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_number_container_dark_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_close_white_56dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_close_white_56dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_bookmark_border_black.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_bookmark_border_black.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/xml_backup_scheme.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/xml/backup_scheme.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_doa_border_black.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_doa_border_black.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-hdpi_ic_navbar_app_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-hdpi/ic_navbar_app_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_share_white_56dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_share_white_56dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_dark.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_dark.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_adab_sebab_accent_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_adab_sebab_accent_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_number_container_primary_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_number_container_primary_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/xml_network_security_config.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout-v21_doa_list_item.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout-v21/doa_list_item.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/raw_doas_latin.txt.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/raw/doas_latin.txt"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/menu_menu_main.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_star_bookmark_accent_40dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_star_bookmark_accent_40dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_fragment_doa_detail.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/fragment_doa_detail.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_syarat_dialog.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/syarat_dialog.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/anim_slide_right.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/anim/slide_right.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_background_splash.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout-v21_activity_detail_doa.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout-v21/activity_detail_doa.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_star_unbookmark_accent_40dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_star_unbookmark_accent_40dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxxhdpi_ic_navbar_app_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxxhdpi/ic_navbar_app_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/xml_searchable.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/xml/searchable.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/font_maturasc.ttf.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/font/maturasc.ttf"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxxhdpi_ic_stat_timeline.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxxhdpi/ic_stat_timeline.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_waktu_keadaan_tempat_accent_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_waktu_keadaan_tempat_accent_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/anim_down_from_top.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/anim/down_from_top.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-mdpi_splash_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-mdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-mdpi_ic_stat_timeline.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-mdpi/ic_stat_timeline.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxhdpi_ic_stat_timeline.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxhdpi/ic_stat_timeline.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_penghalang_accent_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_penghalang_accent_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-hdpi_ic_stat_timeline.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-hdpi/ic_stat_timeline.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-mdpi_ic_navbar_app_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-mdpi/ic_navbar_app_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_arrow_up_accent_24dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_arrow_up_accent_24dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/anim_slide_left.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/anim/slide_left.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_arrow_down_accent_24dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_arrow_down_accent_24dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/raw_doas_arabic.txt.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/raw/doas_arabic.txt"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/layout_settings_activity.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/anim_up_from_bottom.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/anim/up_from_bottom.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_settings_accent_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_settings_accent_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_star_accent_24dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_star_accent_24dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_search_white_56dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_search_white_56dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-hdpi_splash_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-hdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xxhdpi_splash_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xxhdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xhdpi_ic_stat_timeline.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xhdpi/ic_stat_timeline.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable_ic_number_container_light_48dp.xml.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable/ic_number_container_light_48dp.xml"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/drawable-xhdpi_splash_icon.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/drawable-xhdpi/splash_icon.png"
+    },
+    {
+        "merged": "com.khazasid.android.doaqu.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.khazasid.android.doaqu.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

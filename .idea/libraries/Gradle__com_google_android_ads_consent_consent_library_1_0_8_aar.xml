@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.ads.consent:consent-library:1.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bdefb98428c0315ca19d9bfd39f96729/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f838d5773ffa30f3cdfdfff17843f00/transformed/jetified-consent-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f838d5773ffa30f3cdfdfff17843f00/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f838d5773ffa30f3cdfdfff17843f00/transformed/jetified-consent-library-1.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ff193ca3d1cbeb4732122e5b516a3298/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3259708e039e95e7ac67df50d4cb709/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6efdd9278b3d880fcb37965bacbca9ae/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d01da8fa6c3cdc9a31d9d3ddca3d4e9/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/554350de7f6daf15e03546cbcde14dbf/transformed/jetified-consent-library-1.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/554350de7f6daf15e03546cbcde14dbf/transformed/jetified-consent-library-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/554350de7f6daf15e03546cbcde14dbf/transformed/jetified-consent-library-1.0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

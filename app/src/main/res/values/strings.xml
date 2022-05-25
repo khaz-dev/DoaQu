@@ -1,0 +1,327 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name" translatable="false">DoaQu</string>
+    <string name="app_dist" translatable="false">by Khaz ID</string>
+    <string name="locale" translatable="false">in_ID</string>
+
+    <string name="authority_suggest_search" translatable="false">com.khazasid.android.doaqu.SuggestionProvider</string>
+
+    <!--SharedPreferences-->
+    <string name="doaqu_pref" translatable="false">DOAQU_PREFERENCES</string>
+    <string name="first_time_pref" translatable="false">FIRST_LAUNCH</string>
+    <string name="acces_time_preferences" translatable="false">ACCES_TIME</string>
+    <string name="version_name_format">Versi %1$s</string>
+    <string name="translate_doa" translatable="false">\"%1$s\"</string>
+    <string name="arab_cv_pref" translatable="false">ARAB_CV_PREF</string>
+    <string name="latin_cv_pref" translatable="false">LATIN_CV_PREF</string>
+    <string name="translate_cv_pref" translatable="false">TRANSLATE_CV_PREF</string>
+    <string name="on_language_change" translatable="false">ON_LANGUAGE_CHANGE</string>
+
+    <!--All key-->
+
+    <string name="database_name" translatable="false">Doas.db</string>
+
+    <string name="ads_not_shown_message">Kami bergantung pada Iklan untuk pengembangan aplikasi ini, terima kasih atas dukungannya.</string>
+
+    <!-- Category name for All tab [CHAR LIMIT=20] -->
+    <string name="tab_doa">Doa</string>
+
+    <!-- Category name for Bookmark tab [CHAR LIMIT=20] -->
+    <string name="tab_bookmark">Bookmark</string>
+
+    <string name="search_hint">Cari Doa&#8230;</string>
+
+    <string name="action_dark_mode">Mode gelap</string>
+    <string name="action_share_app">Bagikan DoaQu</string>
+    <string name="action_rate_us">Rating DoaQu</string>
+    <string name="action_privacy_policy">Kebijakan privasi</string>
+
+
+    // Dummy data
+    <string name="doa_footnote_example">(QS. Al-Mu\'minuun [23]: 118)</string>
+    <string name="doa_title_example">Doa Agar Termasuk Golongan Orang Beriman</string>
+    <string name="doa_translate_example">Ya Rabbku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan orang-orang yang shalih, dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian, dan jadikanlah aku termasuk orang yang mewarisi Surga yang penuh kenikmatan. dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan</string>
+    <string name="doa_arab_example">رَبِّ هَبْ لِی حُکْمًاوَّأَلْحِقْنِی بِالصّٰلِحِيْنَ وَاجْعَلْ لِّی لِسَانَ صِدْقٍ فِی الْأَخِرِيْنَ وَاجْعَلْنِی مِنْ وَّرَثَةِجَنَّةِالنَّعِيْمِ۰وَلَاتُخْزِنِی يَوْمَ يُبْعَثُوْنَ</string>
+    <string name="doa_latin_example">Robbi Hablii hukmawwa alhiqnii bishoolihiina waj\'alli lisaani shidqim fil aakhiriina waj\'alnii miwwaro tsati jannati nna\'iim. Wa laa tukhzinii yauma yub\'atsuun.</string>
+
+    <string name="title_doa_arab">Teks Arab</string>
+    <string name="latin_doa_arab">Teks Latin</string>
+    <string name="translate_doa_arab">Teks Translasi</string>
+    <string name="number_content_description">nomor doa</string>
+    <string name="bookmark_content_desription">doa bookmark</string>
+
+    <string name="shared_doa_title">Bagi doa ke</string>
+    <string name="bookmarked">Bookmark</string>
+    <string name="unbookmarked">Hapus Bookmark</string>
+    <string name="bookmark_empty">Maaf, bookmark kosong</string>
+    <string name="doa_empty">Refresh atau restart untuk memuat data</string>
+
+    <string name="shared_doaqu_title">Bagi DoaQu ke</string>
+    <string name="shared_doaqu_subject">Download DoaQu | Sesuai Quran dan Hadits</string>
+    <string name="shared_doaqu_text">DoaQu | Sesuai Quran dan Hadits\n\nDownload : https://play.google.com/store/apps/details?id=com.khazasid.android.doaqu</string>
+
+    <string name="search_empty">Tidak ada hasil dari \'%1$s\'</string>
+    <string name="search_result">Hasil: %1$d</string>
+
+    <string name="saved_dark_mode_key" translatable="false">theme_preference</string>
+    <string name="on_active_app_key" translatable="false">on_active</string>
+
+
+    <string name="press_back_again">Tekan sekali lagi untuk keluar</string>
+    <string name="doa_category_example">Doa-Doa dari Al-Qur-an</string>
+    <string name="notification_title">DoaQu: Assalaamu\'alaikum</string>
+    <string name="notification_content">Yuk, mulai harimu dengan berdoa agar hidupmu menjadi berkah</string>
+    <string name="read_random_doa">Baca Doa Acak</string>
+    <string name="read_doa">Baca Doa</string>
+    <string name="navigation_drawer_open">Buka navigasi sisi</string>
+    <string name="navigation_drawer_close">Tutup navigasi sisi</string>
+
+    <!--Navigation Drawer Menu Title-->
+    <string name="navbar_title_terkabul_doa">Syarat Terkabul Doa</string>
+    <string name="nav_bar_menu_title_adab_dan_sebab">Adab dan Sebab</string>
+    <string name="nav_bar_menu_title_waktu_keadaan_tempat">Waktu, Keadaan dan Tempat</string>
+    <string name="nav_bar_menu_title_penghalang">Penghalang</string>
+
+    <string name="navbar_title_others">Lain-lain</string>
+    <string name="nav_bar_menu_title_settings">Pengaturan</string>
+    <string name="nav_bar_menu_title_rate_us">Beri rating!</string>
+
+    <!--Adab dan Sebab Terkabulnya Doa-->
+    <string name="adab_title">Adab dan Sebab Terkabulnya Doa</string>
+    <string-array name="adab_content">
+        <item>Ikhlas berdoa karena Allah semata</item>
+        <item>Mengawali doa dengan pujian dan sanjungan kepada Allah, diikuti dengan membaca shalawat kepada Rasulullah shalallahu \'alaihi wasalam, dan diakhiri dengan cara yang sama</item>
+        <item>Bersungguh-sungguh dalam berdoa, serta yakin bahwa setiap permohonan yang dipanjatkan pasti akan dikabulkan oleh Allah</item>
+        <item>Mendesak dengan penuh tawadhu atau kerendahan hati saat berdoa dan tidak terburu-buru memohonkannya</item>
+        <item>Menghadirkan hati dalam doa</item>
+        <item>Memanjatkan doa baik saat dalam keadaan lapang maupun ketika susah</item>
+        <item>Tidak boleh berdoa dan memohon sesuatu kecuali kepada Allah semata.</item>
+        <item>Tidak mendoakan keburukan bagi keluarga, harta, anak, dan diri sendiri</item>
+        <item>Merendahkan suara ketika berdoa, yaitu antara samar-samar dan keras</item>
+        <item>Mengakui dosa yang telah diperbuat, kemudian memohon ampunan atasnya, serta mengakui segala nikmat yang telah diterima, dan bersyukur kepada Allah atas nikmat tersebut</item>
+        <item>Tidak perlu membebani diri dengan membuat sajak dalam berdoa</item>
+        <item>Tadharru\' (merendahkan diri), khusyu\', raghbah (berharap untuk dikabulkan) dan rahbah (rasa takut tidak dikabulkan)</item>
+        <item>Mengembalikan hak orang lain yang dizhalimi disertai dengan taubat</item>
+        <item>Memanjatkan doa tiga kali</item>
+        <item>Menghadap kiblat</item>
+        <item>Memanjatkan doa dengan mengangkat kedua tangan</item>
+        <item>Jika mungkin, hendaklah berwudhu terlebih dahulu sebelum memanjatkan doa kepada Allah</item>
+        <item>Tidak boleh berlebih-lebihan dalam berdoa</item>
+        <item>Bertawassul kepada Allah dengan Asmaa\'ul Husna dan sifat-sifat-Nya yang Mahatinggi, atau dengan amal shahih yang pernah dikerjakan sendirian atau dengan doa seorang shalih yang masih hidup dan berada dihadapannya</item>
+        <item>Setiap makanan dan minuman yang dikonsumsi serta pakaian yang dikenakan harus berasal dari usaha yang halal</item>
+        <item>Tidak berdoa untuk suatu dosa atau untuk memutus silaturrahmi</item>
+        <item>Menjauhi segala macam kemaksiatan</item>
+        <item>Harus menegakkan amar ma\'ruf nahi munkar, yaitu dengan cara menyuruh kepada suatu kebaikan serta mencegah dari suatu kemungkaran</item>
+        <item>Disunnahkan memulai doa dengan mendoakan diri sendiri, baru kemudian mendoakan orang lain</item>
+    </string-array>
+
+    <string-array name="ref_adab">
+        <item>1) Al-Mu\'min ayat 14 dan Al-Bayyinah ayat 5</item>
+        <item>9) Shahiih al-Adzkaar (II/955&#8211;969) karya an-Nawawi</item>
+        <item>12) Ad-Da\' wad Dawaa (hlm. 14&#8211;21) karya Ibnul Qayyim</item>
+        <item>17) Ad-Du\'aa (hlm. 7&#8211;32) karya Husain Awayisyah</item>
+        <item>19) Ad-Du\'aa (hlm. 37&#8211;52, 85&#8211;90) karya Muhammad Ibrahim al-Hamd</item>
+        <item>24) An-Nubadz al-Mustathaabah fi ad-Da\'awaatil Mustajaabah (hlm. 26&#8211;47) karya Syaikh Salim bin Ied al-Hilali</item>
+        <item>\n* At-Tawassul Anwaa\'uhu wa Ahkaamuhu karya Syaikh Muhammad Nashiruddin al-Albani</item>
+        <item>* Tash-hiihud Du\'aa (hlm. 21&#8211;35) karya Syaikh Bakr bin Abdullah Abu Zaid</item>
+        <item>* Al-A\'raf ayat 55 dan 205</item>
+        <item>* HR. Al-Bukhari (no. 4323)</item>
+        <item>* Al-Anbiyaa\' ayat 90</item>
+        <item>* Syarhun Nawawi lish Shahiih Muslim (XV/144)</item>
+    </string-array>
+
+    <!--Waktu, Keadaan, dan Tempat Terkabulnya Doa-->
+    <string name="waktu_title">Waktu, Keadaan, dan Tempat Terkabulnya Doa</string>
+    <string-array name="waktu">
+        <item>Malam Lailatul Qadar</item>
+        <item>Pertengahan malam terakhir, ketika tinggal sepertiga malam yang akhir</item>
+        <item>Duburush shalawaatil maktuubah atau pada setiap akhir shalat-shalat wajib</item>
+        <item>Waktu antara adzan dan iqamah</item>
+        <item>Setiap kali setelah adzan shalat wajib dikumandangkan</item>
+        <item>Suatu waktu pada malam hari</item>
+        <item>Ketika hujan turun</item>
+        <item>Pada saat bertemu musuh di medan jihad fii sabiilillaah, yakni saat berperang demi menegakkan agama Allah</item>
+        <item>Pada waktu tertentu di hari Jum\'at. Pendapat yang paling kuat berkenaan dengan masalah ini bahwa waktu yang dimaksud adalah ba\'da (sesudah) shalat Ashar pada hari Jum\'at. Tetapi mungkin juga yang dimaksudkan itu adalah waktu di antara khutbah Jum\'at dan shalat Jum\'at itu sendiri</item>
+        <item>Tatkala bersujud di dalam shalat</item>
+        <item>Pada waktu bangun dari tidur dalam keadaa suci, dan hendaklah membaca doa yang ma\'tsur</item>
+        <item>Doa kaum muslimin pada waktu meninggalnya seorang muslim, yaitu ketika seseorang memejamkan mata saudara seiman yang belum lama atau baru saja meninggal dunia</item>
+        <item>Doa ketika ditimpa musibah</item>
+        <item>Doa seorang muslim untuk sesama muslim tanpa sepengetahuannya</item>
+        <item>Doa orang yang sedang berpuasa sampai tiba waktu berbuka puasa</item>
+        <item>Doa setelah berwudhu jika berdoa dengan doa-doa ma\'tsur</item>
+        <item>Berdoa pada bulan Ramadhan</item>
+        <item>Ketika berada di tempat berkumpul kaum muslimin di majelis-majelis ilmu</item>
+        <item>Doa-doa yang dipanjatkan setelah mengucap pujian dan sanjungan kepada Allah serta shalawat atas Nabi saat tasyahud akhir</item>
+        <item>Ketika berdoa kepada Allah dengan menyebut nama-Nya yang agung, yang jika kepada-Nya dipanjatkan doa dengan menyebut nama itu niscaya Dia akan mengabulkannya, dan jika Dia diminta dengan menyebut nama itu niscaya Dia akan memberinya</item>
+        <item>Doa keburukan dari orang yang dizhalami atau dianiaya terhadap orang yang menzhaliminya</item>
+        <item>Doa kebaikan dari orang tua untuk anaknya dan doa keburukan orang tua terhadap anaknya</item>
+        <item>Doa seorang musafir, yang sedang bersafar atau melakukan perjalanan</item>
+        <item>Doa orang yang benar-benar dalam kondisi terjepit</item>
+        <item>Doa pemimpin yang adil</item>
+        <item>Doa seorang anak yang berbakti kepada kedua orang tua untuk mereka</item>
+        <item>Ketika minum air zamzam disertai dengan niat yang tulus</item>
+        <item>Doa Shafa, Marwah, dan pada hari Arafah di Arafah</item>
+        <item>Doa sewaktu berada di Muzdalifah atau Masy\'aril Haram</item>
+        <item>Berdoa sesudah melempar jumrah ash-shugra (kecil) dan al-wustha (petengahan)</item>
+        <item>Berdoa di dalam Ka\'bah, termasuk orang-orang yang mengerjakan shalat di dalam Hijr (Hijr Isma\'il). Karena, ia adalah bagian dari Baitullah</item>
+        <item>Berdoa di Multazam, yaitu tempat antara pintu Ka\'bah dan Hajar Aswad</item>
+        <item>Doa orang yang sedang menunaikan ibadah haji dan umrah</item>
+    </string-array>
+
+    <string-array name="waktu_ref">
+        <item>6) Imam Muslim (no. 757)</item>
+        <item>11) Shahih: HR. Al-Bukhari (no. 1154) | Ma\'tsur adalah doa yang bersumber dari Nabi</item>
+        <item>12) Shahih: HR. Muslim (no. 920)</item>
+        <item>13) Shahih: HR. Muslim (no. 918)</item>
+        <item>24) Al-Anfaal ayat 9 dan An-Naml ayat 62</item>
+        <item>32) Manaasikul Hajji wal \'Umrah (hlm. 23)</item>
+        <item>33) Hasan: HR. Ibnu Majah (no. 2893)</item>
+        <item>\n* Adz-Dzikru wad Du\'aa wal \'Ilaaj bir Ruqaa minal Kitab was Sunnah (hlm. 101&#8211;112)</item>
+        <item>* Ad-Du\'aa (hlm. 53&#8211;68) karya Muhammad Ibrahim al-Hamd</item>
+        <item>* Ad-Du\'aa (hlm. 33&#8211;48) karya Syaikh Husain Awayisyah</item>
+        <item>* Tashihud Du\'aa karya Syaikh Bakr bin Abdullah Abu Zaid</item>
+        <item>* An-Nubadz al-Mustathaabah (hlm. 48&#8211;73)</item>
+    </string-array>
+
+    <!--Penghalang Terkabulnya Doa-->
+    <string name="halang_title">Penghalang Terkabulnya Doa</string>
+    <string-array name="halang">
+        <item>Mengonsumsi barang haram berupa makanan dan minuman atau pakaian, dan yang berasal dari hasil usaha yang haram</item>
+        <item>Meminta agar doa yang dipanjatkan cepat terkabul, hingga meninggalkan doa ketika tidak mampu bersabar</item>
+        <item>Berbuat maksiat dan melakukan apa yang diharamkan Allah</item>
+        <item>Meninggalkan kewajiban yang telah Allah perintahkan</item>
+        <item>Berdoa dengan permohonan yang isinya mengandung perbuatan dosa atau memutuskan silaturahim</item>
+        <item>Tidak bersungguh-sungguh ketika memanjatkan doa</item>
+        <item>Lalai dan dikuasai oleh hawa nafsu</item>
+    </string-array>
+
+    <string-array name="halang_ref">
+        <item>1) Shahih: HR. Muslim (II/703, no. 1015)</item>
+        <item>2) Shahih: HR. Al-Bukhari (no. 6340)</item>
+        <item>3) Shahih: HR. Al-Hakim (II/302)</item>
+        <item>4) Hasan: HR. At-Tirmidzi (no. 2169)</item>
+        <item>5) Shahih: HR. Muslim (no. 2735 [92])</item>
+        <item>6) Shahih: HR. Al-Bukhari (no. 6339, 7477)</item>
+        <item>7) Hasan: HR. At-Tirmidzi (no. 3479)</item>
+    </string-array>
+
+    <string name="reference_title">Referensi</string>
+
+    <string name="number_1">1.</string>
+    <string name="number_2">2.</string>
+    <string name="number_3">3.</string>
+    <string name="number_4">4.</string>
+    <string name="number_5">5.</string>
+    <string name="number_6">6.</string>
+    <string name="number_7">7.</string>
+    <string name="number_8">8.</string>
+    <string name="number_9">9.</string>
+    <string name="number_10">10.</string>
+    <string name="number_11">11.</string>
+    <string name="number_12">12.</string>
+    <string name="number_13">13.</string>
+    <string name="number_14">14.</string>
+    <string name="number_15">15.</string>
+    <string name="number_16">16.</string>
+    <string name="number_17">17.</string>
+    <string name="number_18">18.</string>
+    <string name="number_19">19.</string>
+    <string name="number_20">20.</string>
+    <string name="number_21">21.</string>
+    <string name="number_22">22.</string>
+    <string name="number_23">23.</string>
+    <string name="number_24">24.</string>
+
+    <!--Utilitas-->
+    <string name="OK">OK</string>
+
+    <string name="search_setting_description">Cari judul, latin, dan referensi doa</string>
+    <string name="search_prompt_text">Ucapkan kata yang sederhana untuk hasil pencarian yang optimal</string>
+    <string name="empty_ic_desc">Empty data image</string>
+
+    <string-array name="dayOfWeek">
+        <item>Ahad</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi ul-Awwal</item>
+        <item>Rabi ul-Akhir</item>
+        <item>Jumadil Awwal</item>
+        <item>Jumadil Akhir</item>
+        <item>Rajab</item>
+        <item>Sya\'ban</item>
+        <item>Ramadhan</item>
+        <item>Syawal</item>
+        <item>Dzulqa\'idah</item>
+        <item>Dzulhijjah</item>
+    </string-array>
+
+    <string name="hijriDateFormat">%1$s, %2$s %3$s %4$s H</string>
+
+    <!--ADMOB require-->
+    <string name="ADMOB_PUBLISHER_ID">pub-7562210525676871</string>
+    <string name="ADMOB_APP_ID">ca-app-pub-7562210525676871~5489794661</string>
+
+    <!--Release Admob Ad ID-->
+    <string name="BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-7562210525676871/4698499312</string>
+    <string name="INTERSTITIAL_AD_UNIT_ID" translatable="false">ca-app-pub-7562210525676871/6805787905</string>
+    <string name="DETAIL_BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-7562210525676871/2488773914</string>
+    <string name="DETAIL_INTERSTITIAL_AD_UNIT_ID" translatable="false">ca-app-pub-7562210525676871/2865723025</string>
+
+    <string name="ad_clicked">Terima kasih telah meng-klik iklan DoaQu ;)</string>
+
+    <string name="transition_doa_detail">transition_doa_detail</string>
+    <string name="transition_detail_search">transition_detail_search</string>
+    <string name="number_container_trans">number_container</string>
+    <string name="title_trans">title_container</string>
+    <string name="footnote_trans">footnote_container</string>
+
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <!-- Preference Titles -->
+    <string name="app_header">Aplikasi</string>
+    <string name="about_header">Tentang</string>
+
+    <!-- Messages Preferences -->
+    <string name="dark_title">Mode gelap</string>
+    <string name="privacy_policy_title">Kebijakan privasi</string>
+    <string name="other_apps_title">Aplikasi lain</string>
+
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="dark_summary_on">Aktif</string>
+    <string name="dark_summary_off">Tidak Aktif</string>
+    <string name="click_for_read_summary">Baca</string>
+    <string name="by_khazasid_summary">Khaz ID</string>
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="privacy_policy_url">https://doaqu.flycricket.io/privacy.html</string>
+
+    <!--Preferences settings key-->
+    <string name="dark_mode_pref">dark_mode_pref</string>
+    <string name="other_apps_pref">other_apps_pref</string>
+
+    <!--Content description-->
+    <string name="share_doa_cd">share doa</string>
+    <string name="bookmark_doa_cd">bookmark doa</string>
+    <string name="search_doa_cd">search doa</string>
+    <string name="drop_down_teks_arab_cd">drop down teks arab</string>
+    <string name="drop_down_teks_latin_cd">drop down teks latin</string>
+    <string name="drop_down_teks_translasi_cd">drop down teks translasi</string>
+
+</resources>

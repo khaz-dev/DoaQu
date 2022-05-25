@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-appset:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4070a8a5ea4d54b4b87b7a1a72667a8d/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d086b7874cfc238d251c8422ab879e0a/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8c20b8b51a0df73b3e302db56f2d4f78/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4d8bacbe0692e5d15edc3b694a4e00e7/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7d5720b9c1ec86007e29f11bfcce3a15/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a7fe768da89623679e745f32be8c6afe/transformed/jetified-play-services-appset-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7fe768da89623679e745f32be8c6afe/transformed/jetified-play-services-appset-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7fe768da89623679e745f32be8c6afe/transformed/jetified-play-services-appset-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-appset/16.0.0/8cd9011920c394af16ca93e693a993705090787a/play-services-appset-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
